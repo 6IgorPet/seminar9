@@ -1,0 +1,15 @@
+D:\seminar9\zad66\bin\Debug\net6.0\zad66.exe
+D:\seminar9\zad66\bin\Debug\net6.0\zad66.deps.json
+D:\seminar9\zad66\bin\Debug\net6.0\zad66.runtimeconfig.json
+D:\seminar9\zad66\bin\Debug\net6.0\zad66.dll
+D:\seminar9\zad66\bin\Debug\net6.0\zad66.pdb
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.csproj.AssemblyReference.cache
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.AssemblyInfoInputs.cache
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.AssemblyInfo.cs
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.csproj.CoreCompileInputs.cache
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.dll
+D:\seminar9\zad66\obj\Debug\net6.0\refint\zad66.dll
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.pdb
+D:\seminar9\zad66\obj\Debug\net6.0\zad66.genruntimeconfig.cache
+D:\seminar9\zad66\obj\Debug\net6.0\ref\zad66.dll
